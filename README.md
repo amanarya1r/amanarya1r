@@ -1,10 +1,8 @@
-
-<div>
 <a>
-		<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="https://res.cloudinary.com/dpun25sko/image/upload/v1731701244/AA%27s%20Web-Repo/ucssize.webp" alt="random prompt">
+	<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="https://res.cloudinary.com/dpun25sko/image/upload/v1731701244/AA%27s%20Web-Repo/ucssize.webp" alt="random prompt">
 </a>
 	<h1 align="center">Greetings👋</h1>
-</div>
+
 
 <img align="right" width=200px title="IC on a walk..." src="https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif" alt="just a walking ic">
 I'm Aman Arya, and welcome to my Git profile where I share projects, research, and contributions. I'm passionate about solving problems related to electronics and programming by which I want to mak this world a better place. 
