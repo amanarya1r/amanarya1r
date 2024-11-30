@@ -5,13 +5,14 @@
 
 
 <img align="right" width=200px title="IC on a walk..." src="https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif" alt="just a walking ic">
-I'm Aman Arya, and welcome to my Git profile where I share projects, research, and contributions. I'm passionate about solving problems related to electronics and programming by which I want to mak this world a better place. 
+I'm Aman Arya, and welcome to my Git profile where I share projects, research, and contributions. I'm passionate about solving problems related to electronics and programming by which I want to make this world a better place. 
 <ul>
 	<li>⭐ Looking forward to have a successful professional career as a VLSI Engineer</li>
 	<li>🌱 I’m currently learning C++</li>
 	<li>🧠 Fields of Interest: Digital IC, Analog IC, Computation, Machine Learning, AI, Automation</li>
 	<li>🚀 Currently Exploring: Digital IC, Computation</li>
 	<li>⚡ Fun fact: <em>The first integrated circuit (IC) was invented in 1958 and was about the size of a fingernail. Today, billions of transistors can be packed into a chip smaller than a coin.</em>⚡</li>
+	<li>🌐 For more information about me visit my <a href="https://amnrya.blogspot.com/"><img width=20 alt="https://amnrya.blogspot.com/" title="Website: https://amnrya.blogspot.com/"scr="https://res.cloudinary.com/dpun25sko/image/upload/v1732935630/verilog_light_piroqw.svg">website</a></li>
 </ul>
 <br/>
 <br/>
@@ -24,8 +25,16 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	<tr>
 		<td><strong>Hardware Description</strong></td>
 		<td>
-			<img width=50 title="Verilog" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732813883/verilog_yhp4hd.svg">
-			<img width=50 title="System Verilog" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732813872/systemverilog_ypszgx.svg">		
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="Verilog" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732935630/verilog_light_piroqw.svg">
+				<source media="(prefers-color-scheme: light)" width=50 title="Verilog" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732813883/verilog_yhp4hd.svg">
+				<img alt="Verilog" width=50 title="Verilog" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732813883/verilog_yhp4hd.svg">
+			</picture>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="System Verilog" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732935389/systemverilog_light_uecqda.svg">
+				<source media="(prefers-color-scheme: light)" width=50 title="System Verilog" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732813872/systemverilog_ypszgx.svg">
+				<img alt="System Verilog" width=50 title="System Verilog" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732813872/systemverilog_ypszgx.svg">
+			</picture>		
 		</td>
 	</tr>
 	<tr>
@@ -33,7 +42,11 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 		<td>
 			<img width=50 title="C programming language" src="https://skillicons.dev/icons?i=c&theme=dark">
 			<img width=50 title="C++ programming language" src="https://skillicons.dev/icons?i=cpp&theme=dark">
-			<img width=50 title="Python" src="https://skillicons.dev/icons?i=python&theme=dark">
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="Python" srcset="https://skillicons.dev/icons?i=python&theme=light">
+				<source media="(prefers-color-scheme: light)" width=50 title="Python" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+				<img alt="Python" width=50 title="Python" src="https://skillicons.dev/icons?i=python&theme=dark">
+			</picture>
 		</td>
 	</tr>
 	<tr>
@@ -54,13 +67,20 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	<tr>
 		<td><strong>Scripting</strong></td>
 		<td>
-			<img width=50 title="Bash" src="https://skillicons.dev/icons?i=bash&theme=dark">
-			<img width=50 title="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=dark">
-			<img width=50 title="AutoHotkey" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732814766/drawuk_zzb06d.svg">
 			<picture>
-				<source media="(prefers-color-scheme: dark)" width=50 title="AutoHotkey" srcset="https://skillicons.dev/icons?i=vim&theme=light">
-				<source media="(prefers-color-scheme: light)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732814766/drawuk_zzb06d.svg">
-				<img alt="AutoHotkey" width=50 title="AutoHotkey" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732814766/drawuk_zzb06d.svg">
+				<source media="(prefers-color-scheme: dark)" width=50 title="Bash" srcset="https://skillicons.dev/icons?i=bash&theme=light">
+				<source media="(prefers-color-scheme: light)" width=50 title="Bash" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
+				<img alt="Bash" width=50 title="Bash" src="https://skillicons.dev/icons?i=bash&theme=dark">
+			</picture>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="PowerShell" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
+				<source media="(prefers-color-scheme: light)" width=50 title="PowerShell" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
+				<img alt="PowerShell" width=50 title="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=dark">
+			</picture>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_light_jyv2zc.svg">
+				<source media="(prefers-color-scheme: light)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
+				<img alt="AutoHotkey" width=50 title="AutoHotkey" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
 			</picture>
 		</td>
 	</tr>
