@@ -15,8 +15,8 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	<li>
 		🌐 To know more about me visit my 
 			<a href="https://amnrya.blogspot.com/p/about.html">
-				website.
-				<img alt="Website: About me" title="About me: https://amnrya.blogspot.com/p/about.html" width=20 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
+				blog.
+				<img alt="Blog: About me" title="About me: https://amnrya.blogspot.com/p/about.html" width=20 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
 			</a>
 		</li>
 </ul>
@@ -24,9 +24,9 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br/>
 <br/>
 
-<h2 align="center">💻 Skills 💻</h2>
+<div align="center">
 
-<div align="center"> 
+<h2>💻 Skills 💻</h2> 
 	
 ### 🔣 Programming Languages 🔣
 <table>
@@ -101,7 +101,6 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 		</td>
 	</tr>
 </table>
-<br/>
 <br/>
 
 ### 🛠️ Tools 🛠️
@@ -215,45 +214,28 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br/>
 <br/>
 
-<h2 align="center">💬 Connect with me 🗨️</h2>
 
 <div align="center">
-	<table>
-		<tr>
-			<td>
-				<a href="mailto:amanarya1r@gmail.com">
-					<picture>
-						<source media="(prefers-color-scheme: dark)" width=50 title="Connect via Gmail: amanarya1r@gmail.com" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
-						<source media="(prefers-color-scheme: light)" width=50 title="Connect via Gmail: amanarya1r@gmail.com" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
-						<img alt="Gmail Id: amanarya1r@gmail.com" width=50 title="Connect via Gmail: amanarya1r@gmail.com" src="https://skillicons.dev/icons?i=gmail&theme=dark">
-					</picture>
-				</a>
-			</td>
-			<td>
-				<a href="https://www.linkedin.com/in/amanarya1r/">
-					<img alt="Linkedin: amanarya1r" title="Connect via Linkedin: amanarya1r" width=50 src="https://skillicons.dev/icons?i=linkedin&theme=dark">
-				</a>
-			</td>
-			<td>
-				<a href="https://t.me/amanarya1r">
-					<img alt="Telegram: amanarya1r" width=50 title="Connect via Telegram: amanarya1r" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732900192/telegram_f359j2.svg">
-				</a>
-			</td>
-		</tr>
-	</table>
-</div>
-<hr/>
-<br/>
-<br/>
-
-<h2 align="center">🌐 Information and Blogs 🌐</h2>
-
-<div align="center">
+<h2>💬 Connect with me 🗨️</h2>
 <table>
 	<tr>
 		<td>
-			<a href="https://amnrya.blogspot.com/">
-				<img alt="Website: amnrya.blogspot.com" title="For blogs and more information please visit: amnrya.blogspot.com" width=70 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
+			<a href="mailto:amanarya1r@gmail.com">
+				<picture>
+					<source media="(prefers-color-scheme: dark)" width=50 title="Connect via Gmail: amanarya1r@gmail.com" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
+					<source media="(prefers-color-scheme: light)" width=50 title="Connect via Gmail: amanarya1r@gmail.com" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+					<img alt="Gmail Id: amanarya1r@gmail.com" width=50 title="Connect via Gmail: amanarya1r@gmail.com" src="https://skillicons.dev/icons?i=gmail&theme=dark">
+				</picture>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/in/amanarya1r/">
+				<img alt="Linkedin: amanarya1r" title="Connect via Linkedin: amanarya1r" width=50 src="https://skillicons.dev/icons?i=linkedin&theme=dark">
+			</a>
+		</td>
+		<td>
+			<a href="https://t.me/amanarya1r">
+				<img alt="Telegram: amanarya1r" width=50 title="Connect via Telegram: amanarya1r" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732900192/telegram_f359j2.svg">
 			</a>
 		</td>
 	</tr>
@@ -264,5 +246,31 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br/>
 
 
+<div align="center">
+<h2>🌐 Blog and Articles 🌐</h2>
+<table>
+	<tr>
+		<td>
+			<a href="https://amnrya.blogspot.com/">
+				<img alt="Website: amnrya.blogspot.com" title="For blogs and more information please visit: amnrya.blogspot.com" width=70 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
+			</a>
+		</td>
+	</tr>
+	<br/>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</table>
+</div>
+<hr/>
+<br/>
+<br/>
 
+<div align="center">
+<h2>📊 Stats 📊</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=dark&title_color=365cff&text_color=ffffff&locale=en&layout=compact" alt="amanarya1r" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanarya1r&show_icons=true&theme=dark&title_color=365cff&text_color=ffffff&locale=en" alt="amanarya1r" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanarya1r&theme=dark" alt="amanarya1r" /></p>
+</div>
 
