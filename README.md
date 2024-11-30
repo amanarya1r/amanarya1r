@@ -1,4 +1,4 @@
-<a>
+<a href="https://amnrya.blogspot.com/p/amanarya.html">
 	<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="https://res.cloudinary.com/dpun25sko/image/upload/v1731701244/AA%27s%20Web-Repo/ucssize.webp" alt="random prompt">
 </a>
 	<h1 align="center">Greetings👋</h1>
@@ -12,7 +12,6 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	<li>🧠 Fields of Interest: Digital IC, Analog IC, Computation, Machine Learning, AI, Automation</li>
 	<li>🚀 Currently Exploring: Digital IC, Computation</li>
 	<li>⚡ Fun fact: <em>The first integrated circuit (IC) was invented in 1958 and was about the size of a fingernail. Today, billions of transistors can be packed into a chip smaller than a coin.</em>⚡</li>
-	<li>🌐 For more information about me visit my <a href="https://amnrya.blogspot.com/"><img width=20 alt="https://amnrya.blogspot.com/" title="Website: https://amnrya.blogspot.com/"scr="https://res.cloudinary.com/dpun25sko/image/upload/v1732935630/verilog_light_piroqw.svg">website</a></li>
 </ul>
 <br/>
 <br/>
