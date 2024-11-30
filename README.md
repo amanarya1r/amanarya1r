@@ -267,10 +267,16 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 
 <div align="center">
 <h2>📊 Stats 📊</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=dark&title_color=365cff&text_color=ffffff&locale=en&layout=compact" alt="amanarya1r" /></p>
+<p>
+	<picture>
+		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=dark&bg_color=f4f2ed&title_color=6d88fb&text_color=000000&card_width=500&locale=en&layout=compact">
+		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=dark&title_color=6d88fb&text_color=ffffff&card_width=500&locale=en&layout=compact">
+		<img alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=dark&title_color=6d88fb&text_color=ffffff&card_width=500&locale=en&layout=compact">
+	</picture>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanarya1r&show_icons=true&theme=dark&title_color=365cff&text_color=ffffff&locale=en" alt="amanarya1r" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amanarya1r&show_icons=true&theme=dark&title_color=6d88fb&text_color=ffffff&rank_icon=github&card_width=500&locale=en" alt="amanarya1r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanarya1r&theme=dark" alt="amanarya1r" /></p>
+<p><img src="https://streak-stats.demolab.com?user=amanarya1r&theme=github-dark&hide_border=true&background=151515&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500" alt="amanarya1r" /></p>
 </div>
 
