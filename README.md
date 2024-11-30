@@ -1,4 +1,4 @@
-<a href="https://amnrya.blogspot.com/p/amanarya.html">
+<a href="https://amnrya.blogspot.com/p/about.html">
 	<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="https://res.cloudinary.com/dpun25sko/image/upload/v1731701244/AA%27s%20Web-Repo/ucssize.webp" alt="random prompt">
 </a>
 	<h1 align="center">Greetings👋</h1>
@@ -12,14 +12,23 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	<li>🧠 Fields of Interest: Digital IC, Analog IC, Computation, Machine Learning, AI, Automation</li>
 	<li>🚀 Currently Exploring: Digital IC, Computation</li>
 	<li>⚡ Fun fact: <em>The first integrated circuit (IC) was invented in 1958 and was about the size of a fingernail. Today, billions of transistors can be packed into a chip smaller than a coin.</em>⚡</li>
+	<li>
+		🌐 To know more about me visit my 
+			<a href="https://amnrya.blogspot.com/p/about.html">
+				website.
+				<img alt="Website: About me" title="About me: https://amnrya.blogspot.com/p/about.html" width=20 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
+			</a>
+		</li>
 </ul>
+<hr/>
 <br/>
 <br/>
+
 <h2 align="center">💻 Skills 💻</h2>
 
 <div align="center"> 
 	
-## 🔣 Programming Languages 🔣
+### 🔣 Programming Languages 🔣
 <table>
 	<tr>
 		<td><strong>Hardware Description</strong></td>
@@ -95,7 +104,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br/>
 <br/>
 
-## 🛠️ Tools 🛠️
+### 🛠️ Tools 🛠️
 <table>
 	<tr>
 		<td title="Integrated Development Environments" ><strong>IDE</strong></td>
@@ -202,9 +211,9 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	</tr>
 </table>
 </div>
-<br>
-
-<br>
+<hr/>
+<br/>
+<br/>
 
 <h2 align="center">💬 Connect with me 🗨️</h2>
 
@@ -233,6 +242,26 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 		</tr>
 	</table>
 </div>
+<hr/>
+<br/>
+<br/>
+
+<h2 align="center">🌐 Information and Blogs 🌐</h2>
+
+<div align="center">
+<table>
+	<tr>
+		<td>
+			<a href="https://amnrya.blogspot.com/">
+				<img alt="Website: amnrya.blogspot.com" title="For blogs and more information please visit: amnrya.blogspot.com" width=70 src="https://res.cloudinary.com/dpun25sko/image/upload/v1732938215/weblogo_cjdxjk.svg">
+			</a>
+		</td>
+	</tr>
+</table>
+</div>
+<hr/>
+<br/>
+<br/>
 
 
 
