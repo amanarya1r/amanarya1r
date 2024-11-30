@@ -258,6 +258,11 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	</tr>
 	<br/>
 <!-- BLOG-POST-LIST:START -->
+- [C++ code](https://amnrya.blogspot.com/2024/09/c-code.html)
+- [Difference Between C, C++, Python, Perl, MATLAB, Verilog, System Verilog, Assembly language, AutoHotkey, Java and HTML](https://amnrya.blogspot.com/2024/05/difference-between-c-c-python-perl.html)
+- [Python: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/python-60-features-advantages-and.html)
+- [C++ programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features_29.html)
+- [C programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features.html)
 <!-- BLOG-POST-LIST:END -->
 </table>
 </div>
