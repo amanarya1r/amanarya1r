@@ -24,7 +24,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br>
 <br>
 
-<details>
+<details open>
 <summary align="center"><h2>💻 Skills 💻</h2> </summary>
 <div align="center">
 	
@@ -215,7 +215,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br>
 <br>
 
-<details>
+<details open>
 <summary align="center">
 <h2>💬 Connect with me 🗨️</h2>
 </summary>
@@ -251,7 +251,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br>
 <br>
 
-<details>
+<details open>
 <summary align="center"><h2>🌐 Blog and Articles 🌐</h2></summary>
 <div align="center">
 <table>
@@ -279,7 +279,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br>
 <br>
 
-<details>
+<details open>
 <summary align="center"><h2>📊 Stats 📊</h2></summary>
 <div align="center">
 <p>
