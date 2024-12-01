@@ -24,9 +24,9 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <br/>
 <br/>
 
+<details>
+<summary align="center"><h2>💻 Skills 💻</h2> </summary>
 <div align="center">
-
-<h2>💻 Skills 💻</h2> 
 	
 ### 🔣 Programming Languages 🔣
 <table>
@@ -210,13 +210,18 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	</tr>
 </table>
 </div>
+</details>
 <hr/>
 <br/>
 <br/>
 
+<details>
+<summary align="center">
+<h2>💬 Connect with me 🗨️</h2>
+</summary>
 
 <div align="center">
-<h2>💬 Connect with me 🗨️</h2>
+
 <table>
 	<tr>
 		<td>
@@ -241,13 +246,14 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 	</tr>
 </table>
 </div>
+</details>
 <hr/>
 <br/>
 <br/>
 
-
+<details>
+<summary align="center"><h2>🌐 Blog and Articles 🌐</h2></summary>
 <div align="center">
-<h2>🌐 Blog and Articles 🌐</h2>
 <table>
 	<tr>
 		<td>
@@ -257,6 +263,8 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 		</td>
 	</tr>
 	<br/>
+</table>
+<div align="left">
 <!-- BLOG-POST-LIST:START -->
 - [C++ code](https://amnrya.blogspot.com/2024/09/c-code.html)
 - [Difference Between C, C++, Python, Perl, MATLAB, Verilog, System Verilog, Assembly language, AutoHotkey, Java and HTML](https://amnrya.blogspot.com/2024/05/difference-between-c-c-python-perl.html)
@@ -264,14 +272,16 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 - [C++ programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features_29.html)
 - [C programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features.html)
 <!-- BLOG-POST-LIST:END -->
-</table>
 </div>
+</div>
+</details>
 <hr/>
 <br/>
 <br/>
 
+<details>
+<summary align="center"><h2>📊 Stats 📊</h2></summary>
 <div align="center">
-<h2>📊 Stats 📊</h2>
 <p>
 	<picture>
 		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=ffffff&card_width=500&locale=en&layout=compact">
