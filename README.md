@@ -300,9 +300,9 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 
 <p>
 	<picture>
-		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://streak-stats.demolab.com?user=amanarya1r&theme=transparent&hide_border=true&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff">
-		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://streak-stats.demolab.com?user=amanarya1r&theme=transparent&hide_border=true&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000">
-		<img alt="Most Used Languages" title="Most Used Languages" src="https://streak-stats.demolab.com?user=amanarya1r&theme=transparent&hide_border=true&background=151515&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff">
+		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanarya1r&theme=transparent&hide_border=true&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff">
+		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanarya1r&theme=transparent&hide_border=true&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000">
+		<img alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-streak-stats.herokuapp.com?user=amanarya1r&theme=transparent&hide_border=true&background=151515&ring=6D88FB&fire=79FF97&stroke=365CFF&dates=79FF97&card_width=500&sideLabels=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff">
 	</picture>
 </p>
 </div>
