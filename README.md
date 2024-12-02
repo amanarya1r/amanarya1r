@@ -284,9 +284,9 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <div align="center">
 <p>
 	<picture>
-		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=ffffff&card_width=500&locale=en&layout=compact">
-		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=000000&card_width=500&locale=en&layout=compact">
-		<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&bg_color=f4f2ed&title_color=6d88fb&text_color=ffffff&card_width=500&locale=en&layout=compact">
+		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=ffffff&card_width=500&langs_count=20&locale=en&layout=compact">
+		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=000000&card_width=500&langs_count=20&locale=en&layout=compact">
+		<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=f4f2ed&title_color=6d88fb&text_color=ffffff&card_width=500&langs_count=20&locale=en&layout=compact">
 	</picture>
 </p>
 
