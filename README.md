@@ -267,11 +267,11 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is general purpose programming language?](https://amnrya.blogspot.com/2024/12/blog-post.html)
 - [Difference Between C, C++, Python, Perl, MATLAB, Verilog, System Verilog, Assembly language, AutoHotkey, Java and HTML](https://amnrya.blogspot.com/2024/05/difference-between-c-c-python-perl.html)
 - [Python: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/python-60-features-advantages-and.html)
 - [C++ programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features_29.html)
 - [C programming Language: 60 features advantages and disadvantages](https://amnrya.blogspot.com/2024/04/c-programming-language-60-features.html)
-- [How to Choose Right Monitor | Details of Monitor Peripherals](https://amnrya.blogspot.com/2020/07/how-to-choose-right-monitor-blog .html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
