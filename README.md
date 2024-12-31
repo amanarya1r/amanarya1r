@@ -282,12 +282,16 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 <details open>
 <summary align="center"><h2>📊 Stats 📊</h2></summary>
 <div align="center">
-<p>
+<!-- <p>
 	<picture>
 		<source media="(prefers-color-scheme: dark)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=ffffff&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,pascal,julia,purebasic,visual%20basic%20.NET&layout=compact">
 		<source media="(prefers-color-scheme: light)" title="Most Used Languages" srcset="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=000000&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,pascal,julia,purebasic,visual%20basic%20.NET&layout=compact">
 		<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&bg_color=f4f2ed&title_color=6d88fb&text_color=ffffff&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,pascal,julia,purebasic,visual%20basic%20.NET&layout=compact">
 	</picture>
+</p> -->
+
+<p>
+	<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=9a9a9a&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,pascal,julia,purebasic,visual%20basic%20.NET&layout=compact">
 </p>
 
 <p>
