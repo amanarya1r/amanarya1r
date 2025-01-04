@@ -291,7 +291,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 </p> -->
 
 <p>
-	<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=9a9a9a&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,pascal,julia,batchfile,purebasic,visual%20basic%20.NET&layout=compact">
+	<img alt="Most Used Languages" title="Most Used Languages" src="https://readme-stats-amnrya.vercel.app/api/top-langs?username=amanarya1r&show_icons=true&theme=transparent&hide_border=true&title_color=6d88fb&text_color=9a9a9a&card_width=500&langs_count=20&locale=en&hide=tcl,lua,typescript,go,pascal,julia,batchfile,purebasic,visual%20basic%20.NET&layout=compact">
 </p>
 
 <p>
