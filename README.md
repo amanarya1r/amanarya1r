@@ -8,7 +8,7 @@
 I'm Aman Arya, and welcome to my Git profile where I share projects, research, and contributions. I'm passionate about solving problems related to electronics and programming by which I want to make this world a better place. 
 <ul>
 	<li>⭐ Looking forward to have a successful professional career as a VLSI Engineer</li>
-	<li>🌱 I’m currently learning C++</li>
+	<li>🌱 I’m currently learning SQL</li>
 	<li>🧠 Fields of Interest: Digital IC, Analog IC, Computation, Machine Learning, AI, Automation</li>
 	<li>🚀 Currently Exploring: Digital IC, Computation</li>
 	<li>⚡ Fun fact: <em>The first integrated circuit (IC) was invented in 1958 and was about the size of a fingernail. Today, billions of transistors can be packed into a chip smaller than a coin.</em>⚡</li>
