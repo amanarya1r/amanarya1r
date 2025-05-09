@@ -1,5 +1,5 @@
 <a href="https://amnrya.blogspot.com/p/about.html">
-	<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="https://res.cloudinary.com/dpun25sko/image/upload/v1731701244/AA%27s%20Web-Repo/ucssize.webp" alt="random prompt">
+	<img title="Just a random prompt for my life and beyond♾️...  Have a look on my website🌐... " src="img/gitlogo_small.webp" alt="random prompt">
 </a>
 	<h1 align="center">Greetings👋</h1>
 
@@ -84,6 +84,26 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 				<source media="(prefers-color-scheme: dark)" width=50 title="PowerShell" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
 				<source media="(prefers-color-scheme: light)" width=50 title="PowerShell" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
 				<img alt="PowerShell" width=50 title="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=dark">
+			</picture>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_light_jyv2zc.svg">
+				<source media="(prefers-color-scheme: light)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
+				<img alt="AutoHotkey" width=50 title="AutoHotkey" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
+			</picture>
+		</td>
+	</tr>
+		<tr>
+		<td><strong>Database</strong></td>
+		<td>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="MySQL" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+				<source media="(prefers-color-scheme: light)" width=50 title="MySQL" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+				<img alt="MySQL" width=50 title="Bash" src="https://skillicons.dev/icons?i=mysql&theme=dark">
+			</picture>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=light">
+				<source media="(prefers-color-scheme: light)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=dark">
+				<img alt="SQLite" width=50 title="PowerShell" src="https://skillicons.dev/icons?i=sqlite&theme=dark">
 			</picture>
 			<picture>
 				<source media="(prefers-color-scheme: dark)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_light_jyv2zc.svg">
