@@ -8,7 +8,7 @@
 I'm Aman Arya, and welcome to my Git profile where I share projects, research, and contributions. I'm passionate about solving problems related to electronics and programming by which I want to make this world a better place. 
 <ul>
 	<li>⭐ Looking forward to have a successful professional career as a VLSI Engineer</li>
-	<li>🌱 I’m currently learning SQL</li>
+	<li>🌱 I’m currently learning Core Electronics</li>
 	<li>🧠 Fields of Interest: Digital IC, Analog IC, Computation, Machine Learning, AI, Automation</li>
 	<li>🚀 Currently Exploring: Digital IC, Computation</li>
 	<li>⚡ Fun fact: <em>The first integrated circuit (IC) was invented in 1958 and was about the size of a fingernail. Today, billions of transistors can be packed into a chip smaller than a coin.</em>⚡</li>
@@ -104,11 +104,6 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 				<source media="(prefers-color-scheme: dark)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=light">
 				<source media="(prefers-color-scheme: light)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=dark">
 				<img alt="SQLite" width=50 title="PowerShell" src="https://skillicons.dev/icons?i=sqlite&theme=dark">
-			</picture>
-			<picture>
-				<source media="(prefers-color-scheme: dark)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_light_jyv2zc.svg">
-				<source media="(prefers-color-scheme: light)" width=50 title="AutoHotkey" srcset="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
-				<img alt="AutoHotkey" width=50 title="AutoHotkey" src="https://res.cloudinary.com/dpun25sko/image/upload/v1732907747/ahk_rdtmtm.svg">
 			</picture>
 		</td>
 	</tr>
