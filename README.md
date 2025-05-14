@@ -98,12 +98,12 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 			<picture>
 				<source media="(prefers-color-scheme: dark)" width=50 title="MySQL" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
 				<source media="(prefers-color-scheme: light)" width=50 title="MySQL" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
-				<img alt="MySQL" width=50 title="Bash" src="https://skillicons.dev/icons?i=mysql&theme=dark">
+				<img alt="MySQL" width=50 title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark">
 			</picture>
 			<picture>
 				<source media="(prefers-color-scheme: dark)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=light">
 				<source media="(prefers-color-scheme: light)" width=50 title="SQLite" srcset="https://skillicons.dev/icons?i=sqlite&theme=dark">
-				<img alt="SQLite" width=50 title="PowerShell" src="https://skillicons.dev/icons?i=sqlite&theme=dark">
+				<img alt="SQLite" width=50 title="SQLite" src="https://skillicons.dev/icons?i=sqlite&theme=dark">
 			</picture>
 		</td>
 	</tr>
