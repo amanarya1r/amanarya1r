@@ -171,7 +171,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 			</picture>
 		</td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td title="Application Development Frameworks Tools"><strong>Application Frameworks</strong></td>
 		<td>
 			<picture>
@@ -180,7 +180,7 @@ I'm Aman Arya, and welcome to my Git profile where I share projects, research, a
 				<img alt="Qt Creator" width=50 title="Qt Creator" src="https://skillicons.dev/icons?i=qt&theme=dark">
 			</picture>
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td title="Operating Systems"><strong>Operating Systems</strong></td>
 		<td>
